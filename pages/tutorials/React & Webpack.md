@@ -98,7 +98,6 @@ Simply create a new file in your project root named `tsconfig.json` and fill it 
 ```json
 {
     "compilerOptions": {
-        "outDir": "./dist/",
         "sourceMap": true,
         "noImplicitAny": true,
         "module": "commonjs",
